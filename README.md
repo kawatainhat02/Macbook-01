@@ -17,6 +17,18 @@ memo
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
+<b>This text is bold</b>
+<strong>This text is important!</strong>
 </body>
 </html>
 
+//<b> - Bold text
+//<strong> - Important text
+//<i> - Italic text
+//<em> - Emphasized text
+//<mark> - Marked text
+//<small> - Smaller text
+//<del> - Deleted text
+//<ins> - Inserted text
+//<sub> - Subscript text
+//<sup> - Superscript text
