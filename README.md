@@ -16,6 +16,8 @@ memo
 <p style="color:DodgerBlue;">Lorem ipsum...</p>
 <p style="color:MediumSeaGreen;">Ut wisi enim...</p>
 <body>
+<a href="url">link text</a>
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
@@ -29,7 +31,7 @@ close to 5 million globally.
 </blockquote>
 <b>This text is bold</b>
 <b> - Bold text</b>
-<strong>This text is important!</strong>
+<strong>This text is important!hsl(hue, saturation, lightness)</strong>
 <!-- Write my comments here -->
 </body>
 </html>
