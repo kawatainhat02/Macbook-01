@@ -1,12 +1,10 @@
 # Macbook-01
 memo 
-//The <!DOCTYPE html> declaration defines that this document is an HTML5 document
-//The <html> element is the root element of an HTML page
-//The <head> element contains meta information about the HTML page
-//The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
-//The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-//The <h1> element defines a large heading
-//The <p> element defines a paragraph
+<!DOCTYPE html> declaration defines that this document is an HTML5 document
+<html> element is the root element of an HTML page
+<head> element contains meta information about the HTML page
+<title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+<body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 
 <!DOCTYPE html>
 <html>
@@ -15,10 +13,13 @@ memo
 <h1 style="color:Tomato;">Hello World</h1>
 <p style="color:DodgerBlue;">Lorem ipsum...</p>
 <p style="color:MediumSeaGreen;">Ut wisi enim...</p>
+<p> element defines a paragraph</p>
+
 <body>
 <a href="url">link text</a>
 <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 <h1>This is a heading</h1>
+<h2> element defines a large heading</h2>
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
 <div>Hello World</div>
@@ -37,13 +38,11 @@ close to 5 million globally.
 </body>
 </html>
 
-
-//<strong> - Important text
-//<i> - Italic text
-//<em> - Emphasized text
-//<mark> - Marked text
-//<small> - Smaller text
-//<del> - Deleted text
-//<ins> - Inserted text
-//<sub> - Subscript text
-//<sup> - Superscript text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
