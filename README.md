@@ -20,7 +20,7 @@ memo
 <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
-<p>This is another paragraph.<address><article><aside><blockquote><canvas><dd><div><dl><dt><fieldset><figcaption><figure><footer><form><h1>-<h6><header><hr><li><main><nav><noscript><ol><p><pre><section><table><tfoot><ul><video> </p>
+<p>This is another paragraph.</p>
 <div>Hello World</div>
 <p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
 <blockquote cite="http://www.worldwildlife.org/who/index.html">
