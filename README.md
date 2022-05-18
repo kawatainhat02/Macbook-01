@@ -47,3 +47,13 @@ close to 5 million globally.
 <ins> - Inserted text
 <sub> - Subscript text
 <sup> - Superscript text
+
+#include<stdio.h>
+int main(){
+int n = 30;
+double x = 5,1;
+printf("%lf\n",n%x);
+get char();
+return 0;
+  
+}
