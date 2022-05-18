@@ -12,7 +12,9 @@ memo
 <html>
 <head>
 <title>Page title</title>
-</head>
+<h1 style="color:Tomato;">Hello World</h1>
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
+<p style="color:MediumSeaGreen;">Ut wisi enim...</p>
 <body>
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
