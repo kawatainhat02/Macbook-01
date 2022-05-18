@@ -17,12 +17,22 @@ memo
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 50 years, WWF has been protecting the future of nature.
+The world's leading conservation organization,
+WWF works in 100 countries and is supported by
+1.2 million members in the United States and
+close to 5 million globally.
+</blockquote>
 <b>This text is bold</b>
+<b> - Bold text</b>
 <strong>This text is important!</strong>
+<!-- Write my comments here -->
 </body>
 </html>
 
-//<b> - Bold text
+
 //<strong> - Important text
 //<i> - Italic text
 //<em> - Emphasized text
