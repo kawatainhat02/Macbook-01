@@ -39,7 +39,7 @@ close to 5 million globally.
 </body>
 </html>
 
-<i> - Italic text
+<i> - Italic text 
 <em> - Emphasized text
 <mark> - Marked text
 <small> - Smaller text
@@ -47,6 +47,7 @@ close to 5 million globally.
 <ins> - Inserted text
 <sub> - Subscript text
 <sup> - Superscript text
+<i>Hello, WOrld! </i>
 
 #include<stdio.h>
 int main(){
