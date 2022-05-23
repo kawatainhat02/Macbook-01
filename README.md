@@ -43,6 +43,7 @@ close to 5 million globally.
 
 <i> - Italic text 
 <em> - Emphasized text
+   
 <mark> - Marked text
 <small> - Smaller text
 <del> - Deleted text
@@ -57,6 +58,21 @@ int n = 30;
 double x = 5,1;
 printf("%lf\n",n%x);
 get char();
+#include <stdio.h>
+int main(void);
+int num;
+num = 2;
+printf("num = %d$n, num");
+    switch (num){
+    case 1:
+    printf("your price is: %d");
+    break;
+    case
+    case
+    
+    }
 return 0;
   
 }
+
+<del> - Deleted text
